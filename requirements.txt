@@ -3,3 +3,6 @@ Flask-Cors==3.0.10
 SQLAlchemy==1.4.49
 PyJWT==2.8.0
 gunicorn==21.2.0
+qrcode
+pyjwt
+pillow
